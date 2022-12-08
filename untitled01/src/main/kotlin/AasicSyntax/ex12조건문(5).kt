@@ -1,0 +1,7 @@
+package AasicSyntax
+
+fun main() {
+
+
+
+}
